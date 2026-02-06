@@ -3,7 +3,7 @@ KNN is a distance- based supervised learning using scaling techniques such as St
 
 The project implement the K-Nearest Neighbors(KNN) algorithm to classify flower sprcies using the iris dataset.The dataset consists of four features_sepal length,sepal width,petal length,and petal width-usedto perdict the species ofof an iris flower:Setosa,Versicolor,or Viriginica.
 
-**Get the Breast Cancer Wisconsin dataset using below line:**
+**Get the KNN_K-NEIGHBORS dataset using below line:**
 
 ```Dataset = load_iris()
 Dataset
